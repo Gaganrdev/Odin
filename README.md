@@ -1,3 +1,2 @@
 # Odin
-git test
-Hello odin
+Lets begin my journey.
