@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+header{
+    padding-left: 50px;
+    display: flex;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    position: relative;
+}
+.docs
+{
+    position: absolute;
+    right: 210px;
+}
+.docs a{
+    text-decoration: none;
+    color: rgb(179, 177, 177);
+}
+.docs a:hover{
+    color: white;
+}
+button{
+    border-radius: 30px;
+    position: absolute;
+    right: 100px;
+    top: 16px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    background-color: rgb(80, 80, 219);
+}
